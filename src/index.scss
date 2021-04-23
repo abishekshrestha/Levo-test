@@ -1,0 +1,27 @@
+
+/* stylelint-disable */
+@import "bootstrap/scss/functions";
+
+@import "./styles/variables.scss";
+@import "bootstrap/scss/variables";
+
+@import "bootstrap/scss/mixins";
+@import "bootstrap/scss/root";
+@import "bootstrap/scss/reboot";
+@import "bootstrap/scss/type";
+@import "bootstrap/scss/grid";
+@import "bootstrap/scss/buttons";
+@import "bootstrap/scss/transitions";
+@import "bootstrap/scss/button-group";
+@import "bootstrap/scss/card";
+@import "bootstrap/scss/jumbotron";
+@import "bootstrap/scss/utilities";
+@import "bootstrap/scss/print";
+/* stylelint-enable */
+
+@import "./styles/cards.scss";
+@import "./styles/title-section.scss";
+
+body {
+  background: #f8f8f8;
+}

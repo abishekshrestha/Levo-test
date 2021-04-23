@@ -1,0 +1,22 @@
+.custom-card {
+  height: 100%;
+  width: 100%;
+  border: none;
+
+  &-orange {
+    background: #f49826;
+  }
+
+  &-teal {
+    background: #4aadde;
+  }
+
+  &-pink {
+    background: #ab75ad;
+  }
+}
+
+.card-date {
+  font-size: 14px;
+  font-weight: 600;
+}
