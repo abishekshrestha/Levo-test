@@ -4,7 +4,7 @@ import TitleSection from "./components/TitleSection";
 function App() {
   return (
     <div className="App">
-      <div className="container">
+      <div className="container py-4">
         <TitleSection />
         <CardSection />
       </div>
